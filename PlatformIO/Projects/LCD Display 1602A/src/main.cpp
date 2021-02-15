@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include <LiquidCrystal.h>
 
 const int rs = 12, en = 11, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
@@ -9,6 +10,6 @@ void setup() {
 }
 
 void loop() {
-  lcd.setCursor(0, 1);
-  lcd.print(millis() / 1000);
+//  lcd.setCursor(0, 1);
+//  lcd.print(millis() / 1000);
 }

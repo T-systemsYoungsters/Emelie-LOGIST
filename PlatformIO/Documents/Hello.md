@@ -17,5 +17,9 @@ Sprint: Plan, Build, Test, Review= potential shippapble product
     <p>Sprint Planning: Discuss the product Backlog, what comes in the next sprint
     <P> Daily Scrum: Talk about their task for today, what they have done, work on, need to do
     <p> Sprint Review: shows what they have done in the last sprint
+<p>
+<p>Advantage: time saving,flexibility
+<p>Disadvantage: you need to relay on your team, everything need to be done in time
+
 
 

@@ -19,4 +19,4 @@
 <p>provider based within the 5/9/14-Eyes Alliance, could be forced to share this information with the government
 <p>protect yourself by using a well-known, reputable VPN with a strict no-logs policy and RAM-based servers
 <p>RAM-based servers permanently delete your records each time they’re rebooted even if it’s legally required to
-<p> some websites bock VPN Users
+<p> some websites block VPN Users

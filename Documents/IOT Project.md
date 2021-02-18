@@ -6,3 +6,9 @@
 <p> Code auf den Arduino spielen
 <p> Arduino mit der Bewässerungsanlage verbinden
 <p> Zahlen rausfinden woran man die Feuchtigkeit mist 
+
+<p> Feuchtigkeitssensor
+<p>Pumpe
+<p>Arduino
+<p>relais
+<p> 

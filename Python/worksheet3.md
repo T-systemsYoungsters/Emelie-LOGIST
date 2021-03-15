@@ -13,7 +13,7 @@ print("Done")
 if number <= 10 and number >=-10:
     print("Success!)
 
-4)
+4) 
 
 5) only one = when you define a variable
 
@@ -34,4 +34,4 @@ ACTUAL: true, false, true, false, false, true, false, false, true, false, true
 11) GUESS:33, 33, fehler, fehler,34, 310, true, true,3
 ACTUAL: true, false, true,true, true, false, false, true, error no < between int und string
 
-12) variable mony needs to be defined before use
+12) variable money needs to be defined before use

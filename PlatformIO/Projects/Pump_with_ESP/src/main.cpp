@@ -1,10 +1,8 @@
 #include <Arduino.h>
-int PINOUT=13;
-int PINOUT_2=11;
 
 void setup() {
   // put your setup code here, to run once:
-  pinMode(11,OUTPUT);
+  pinMode(8,OUTPUT);
   
 
 

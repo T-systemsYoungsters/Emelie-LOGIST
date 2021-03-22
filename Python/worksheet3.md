@@ -9,11 +9,22 @@ else:
     print("Deine Zahl ist Null")
 print("Done")
 
-3) number= int(input("Gebe eine ganze Zahl ein:"))
+3)
+```Python
+number= int(input("Gebe eine ganze Zahl ein:"))
 if number <= 10 and number >=-10:
     print("Success!)
+```
 
-4) 
+4) print("A. Dessert topping")
+print("B. Desert topping") 
+must be before: user_input = input("A cherry is a: ")
+print("A. Dessert topping")
+print("B. Desert topping")
+if user_input.upper() == "A":
+    print("Correct!")
+else:
+    print("Incorrect.")
 
 5) only one = when you define a variable
 

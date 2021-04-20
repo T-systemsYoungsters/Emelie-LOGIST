@@ -42,7 +42,7 @@ print(my_number)
 7)
 ```Python
 import random
-my_number= random.random()*1+9
+my_number= random.random()*1+9 #ändern
 print(my_number)
 ```
 8)

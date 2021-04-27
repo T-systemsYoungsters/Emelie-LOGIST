@@ -18,7 +18,7 @@ for i in range (10):
     else:
         print("Super")
 print("Done")
-```
+``` 
 6.
 ```Python
 x = 10

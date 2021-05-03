@@ -13,8 +13,8 @@ for row in range(9):
     print()
     ```
    Part2
-   ```Python
-    i=int(input("Wie viele Reihen soll das Viereck haben?"))
+   ```Python 
+i=int(input("Wie viele Reihen soll das Viereck haben?"))
 j=int(input("Wie viele Spalten soll das Viereck haben?"))
 for row in range(i):
     for column in range(j):

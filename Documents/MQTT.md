@@ -1,6 +1,6 @@
 - Raspberry Pi verbinden (cmd mit ssh pi@192.168.2.114)
 - mosquitto runterladen
-- mit mosquitto -v testen
+- mit mosquitto -v testen, wenn "Error: Adress already in use" auftritt funktioniert es
 - danach 2 cmd terminals aufmachen
 - in dem ersten terminal "mosquitto_sub -h localhost -v -t test_channel" eingeben
 - in dem zweiten terminal "mosquitto_pub -h localhost -t test_channel -m "Hello Raspberry Pi" eingeben

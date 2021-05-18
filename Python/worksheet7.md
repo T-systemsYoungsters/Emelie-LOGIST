@@ -27,7 +27,7 @@ Er gibt die jeweilige Länge der Strings aus, da die 2 ein integer ist, hat dies
 8)
 print("Simpson" + "College") : Gibt beides zusammengeschrieben aus
 print("Simpson" + "College"[1]) : gibt Simpson und von dem zweiten Wort die zweite stelle aus (o)
-print( ("Simpson" + "College")[1] ) : gibt die zweite Stelle von den beiden Wörtern aus, sprich i
+print( ("Simpson" + "College")[1] ) : gibt die zweite Stelle von dem ersten Wort aus, sprich i
 
 9)
 Er gibt alle Buchsctaben untereinander aus

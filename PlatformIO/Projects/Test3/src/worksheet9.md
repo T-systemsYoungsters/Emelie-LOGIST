@@ -240,14 +240,13 @@ print(sum(10, 11, 12))
 ```
 
 2.
-```Pythoon
+```Python
 def increase(x):
     return x + 1
  
 x = 10
 print("X is", x, " I will now increase x." )
-x=increase(x)
-print("X is now", x)
+print("X is now", increase(x))
 ```
 
 3.
@@ -314,52 +313,52 @@ print("You entered:", user_command)
 PART 3
 
 ```Python
-#1
+#1 Write a function that prints out ``Hello World.''
 def helloworld():
     print("Hello World")
 
-#2
+#2 Write code that will call the function in the prior problem. 
 helloWorld()
 
-#3
+#3 Write a function that prints out ``Hello Bob'', and will take a parameter to let the caller specify the name. Do not put an input statement inside the function! Use a parameter.
 def helloPerson(name):
     print("Hello", name)
 
-#4
+#4 Write code that will call the function in the prior problem. 
 helloPerson("Bob")
 
-#5
+#5 Write a function that will take two numbers as parameters (not as input from the user) and print their product (i.e. multiply them). 
 def mult(a,b):
     print(a*b)
 
-#6
+#6 Write code that will call the prior function. 
 mult(23,26)
 
-#7
+#7 Write a function that takes in two parameters. The first parameter will be a string named phrase. The second parameter will be a number named count. Print phrase to the screen count times.  
 def printThings(phrase, count):
     for i in range(count):
         print(phrase)
 
-#8
+#8 Write code to call the previous function. 
 printThings("Hello",5)
 
-#9
+#9 Write code for a function that takes in a number, and returns the square of that number. (
 def squareNumber(x):
     return x*x
 
-#10
+#10 Write code to call the function above and print the output. 
 result = squareNumber(12)
 print(result)
 
-#11
+#11 Write a function that takes three numbers as parameters, and returns the centrifugal force
 def centrifugalForce(m,r,w):
     return m*r*w**2
 
-#12
+#12 Write code to call the function above and display the result. 
 f=centrifuagalForce(3,4,5)
 print(f)
 
-#13
+#13 Write a function that takes a list of numbers as a parameter, and prints out each number individually using a for loop
 def printNumbers(list):
     for item in list:
         print (item)

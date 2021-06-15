@@ -20,7 +20,8 @@ Das Foto welches in einem .jpg Format gespeichert werden, wird durch einen Algor
 6.
 Wie bei den Bildern muss auch hier der SOund vor dem main programm loop geladen werden. Damit es nicht die 20 mal pro Sekunde abgespielt wird muss man einen Auslöser festlegen. 
 
-Wenn ein Song aufhört zu spielen löst dieser Befehl:
+Wenn ein Song aufhört zu spielen löst dieser Befehl ihn ab: 
+
 
 ```Python
 elif event.type == pygame.constants.USEREVENT:

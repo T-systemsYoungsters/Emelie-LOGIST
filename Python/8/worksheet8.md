@@ -35,6 +35,7 @@ if rect_y > 450 or rect_y <0:
 ```
 
 5.
+Man muss zwei außenstehende Variablen definieren die man dann anstelle der x und y koordinate einsetzt
 
 6.
 Die ersten drei Zeilen des Codes gehören vor dem Main Program. Die letzte Zeile kommt nur in das Main Program
@@ -51,4 +52,5 @@ print(stars[1][0])
 weil bei dem 2. Code nur der Start ausgelassen wird. Der wäre bei beiden Codes bei 0 und somit automatisch gesetzt bei dem 2. Code
 
 10.
+Es funktioniert ähnlich wie ein Daumenkino, der Bildschirm wird innerhalb von einer Sekunde 60 mal erneuert. Dabei ändert sich der Winkel innerhalb des Kreises (Linie wird mit hilfe eines Dreiecks verschoben (Sinus und Cosinus)) um 0.3 Grad. So wandert die Linie im Kreis
 
